@@ -15,3 +15,8 @@ console.log(a);
     var b = 2;
     console.log (b);
 
+这是一个链接
+[百度](http://www.baidu.com)
+
+图片
+![小姐姐](1.jpg)
